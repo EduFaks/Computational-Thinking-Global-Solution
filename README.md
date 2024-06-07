@@ -1,4 +1,4 @@
-# Computing-Thinking Global Solution FIAP 2024
+# Computational-Thinking Global Solution FIAP 2024
 
 ### Monitoramento de Vários Locais no Mar
 
